@@ -1,0 +1,20 @@
+{
+  "bg-primary": {
+    "backgroundColor": "#78625E !important"
+  },
+  "bg-secondary": {
+    "backgroundColor": "#1C1B22 !important"
+  },
+  "bg-background": {
+    "backgroundColor": "#15141A !important"
+  },
+  "bg-accent": {
+    "backgroundColor": "#76937A !important"
+  },
+  "text-link": {
+    "color": "#50FE96 !important"
+  },
+  "text-text": {
+    "color": "#F7F6F8 !important"
+  }
+}
