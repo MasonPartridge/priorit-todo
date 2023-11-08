@@ -1,11 +1,11 @@
 import { StyleSheet } from 'react-native';
 
 export const globalStyles = StyleSheet.create({
-  poppinsRegular: {
+  "font-poppins": {
     fontFamily: 'Poppins-Regular',
     fontSize: 16,
   },
-  poppinsBold: {
+  "font-poppins-bold": {
     fontFamily: 'Poppins-Bold',
     fontSize: 16,
   },
