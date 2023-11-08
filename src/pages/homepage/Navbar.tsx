@@ -5,7 +5,7 @@ import { globalStyles } from "../../styles.js";
 
 export default function Navbar() {
   return (
-    <View style={tw.style(`bg-primary`, globalStyles["w-screen"])}>
+    <View style={tw.style(`bg-primary`)}>
       <Text style={tw.style(`text-2xl font-bold text-text p-4 w-full text-center`, globalStyles["text-text"])}>
         Todo
       </Text>

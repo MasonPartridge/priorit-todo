@@ -30,7 +30,4 @@ export const globalStyles = StyleSheet.create({
   "text-text": {
     color: "#F7F6F8",
   },
-  "w-screen": {
-    width: screenWidth,
-  }
 });
